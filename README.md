@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @senghong948
 - 👀 I’m interested in game and a little of coding but not that much
 - 🌱 I’m currently learning how to code some thing
-- 💞️ I’m looking to collaborate on maybe someone that can code
+- 💞️ I’m looking to collaborate with maybe someone that can code
 - 📫 How to reach me on my gmail senghong465789@gmail.com
 
 <!---
